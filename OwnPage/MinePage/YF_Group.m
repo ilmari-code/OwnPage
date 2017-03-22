@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  YF_Group.m
 //  ChamelonTest
 //
 //  Created by Mr_Jia on 2017/3/22.
 //  Copyright © 2017年 Mr_Jia. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "YF_Group.h"
 
-@interface ViewController : UIViewController
-
+@implementation YF_Group
 
 @end
-

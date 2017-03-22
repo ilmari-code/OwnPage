@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NewViewController.h
 //  ChamelonTest
 //
 //  Created by Mr_Jia on 2017/3/22.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface NewViewController : UIViewController
+@property (nonatomic,strong) NSString *titleName;
 @end
-
